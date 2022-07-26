@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LoginScreenByMVP</string>
+    <string name="button">Get Movie</string>
+</resources>
